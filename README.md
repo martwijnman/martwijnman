@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martwijnman
-- 👀 I’m interested in Python/C#/SQL
-- 🌱 I’m currently learning C# and Machine Learning
+- 👀 I’m interested in Python/Pandas/AI/Java
+- 🌱 I’m currently learning Java and Machine Learning
 - ⚡ Fun fact: I like travel and Japanese food
 
 <!---
