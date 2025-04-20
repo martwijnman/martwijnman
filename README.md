@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martwijnman
-- 👀 I’m interested in Python/Pandas/AI/Java
+- 👀 I’m interested in Python/Laravel/AI/Java
 - 🌱 I’m currently learning Java and Machine Learning
 - ⚡ Fun fact: I like travel and Japanese food
 
