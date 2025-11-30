@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martwijnman
-- 👀 I’m interested in Python/Laravel/AI/Java
-- 🌱 I’m currently learning Java and Machine Learning
+- 👀 I’m interested in WinUI/Laravel/AI/Java
+- 🌱 I’m currently learning WinUI
 - ⚡ Fun fact: I like travel and Japanese food
 
 <!---
